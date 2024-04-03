@@ -1,4 +1,4 @@
-# Follow the Public Money
+# Follow the Money
 
 This project is a centralized knowledge database to provide transparency on the current state of web-based systems in the public sector. In detail, we provide:
 
@@ -28,3 +28,7 @@ We provide transparency to the web-based system landscape of the public sector. 
 
 - Only websites of government entities listed on [wikidata.org](https://www.wikidata.org/) are considered at the moment.
 - The detailed software component analysis currently focuses on CMS systems. It is planned to extend this at a later point in time for other system types as well.
+
+## References
+- [Project Webpage](https://www.follow-the-money.org/)
+- [Versionmanger Service](https://versionmanager.io/systems)
